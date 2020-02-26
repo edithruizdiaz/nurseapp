@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1a6464e-c0b5-4eb3-aac4-5bd798c4da5c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YJFSbRDT3JGnozrsoEURxCQiwn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/health/vitalsignsrange" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Edith\Documents\natura\nurse-webapp-master\src\main\java\com\health\vitalsignsrange" />
+      <recent name="C:\Users\Edith\Documents\natura\nurse-webapp-master\src\main\java\com\health" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.nurse-webapp">
+    <configuration name="nurse-webapp" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.health.StartApplication" />
+      <module name="health-api" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="health-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.health.StartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.nurse-webapp" />
+      <item itemvalue="Spring Boot.StartApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1a6464e-c0b5-4eb3-aac4-5bd798c4da5c" name="Default Changelist" comment="" />
+      <created>1582652790630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582652790630</updated>
+      <workItem from="1582652800271" duration="9811000" />
+      <workItem from="1582671306925" duration="8208000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582674337463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="424" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582674337463" />
+    <state x="424" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.994/-1920.23.1920.1057@0.23.1920.994" timestamp="1582662767007" />
+    <state x="773" y="201" key="#com.intellij.ide.util.MemberChooser" timestamp="1582678379464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="201" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582678379464" />
+    <state x="773" y="215" key="#com.intellij.ide.util.MemberChooser/0.23.1920.993/-1920.23.1920.1057@0.23.1920.993" timestamp="1582653807911" />
+    <state x="773" y="215" key="#com.intellij.ide.util.MemberChooser/0.23.1920.994/-1920.23.1920.1057@0.23.1920.994" timestamp="1582665043022" />
+    <state x="697" y="313" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582661594060">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state x="697" y="313" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1920.994/-1920.23.1920.1057@0.23.1920.994" timestamp="1582661594060" />
+    <state x="698" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582657918004">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state x="698" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.994/-1920.23.1920.1057@0.23.1920.994" timestamp="1582657918004" />
+    <state width="1877" height="506" key="GridCell.Tab.0.bottom" timestamp="1582684840884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="506" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582684840884" />
+    <state width="1358" height="476" key="GridCell.Tab.0.bottom/0.23.1920.994/-1920.23.1920.1057@0.23.1920.994" timestamp="1582665271104" />
+    <state width="1877" height="506" key="GridCell.Tab.0.center" timestamp="1582684840884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="506" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582684840884" />
+    <state width="1358" height="476" key="GridCell.Tab.0.center/0.23.1920.994/-1920.23.1920.1057@0.23.1920.994" timestamp="1582665271101" />
+    <state width="1877" height="506" key="GridCell.Tab.0.left" timestamp="1582684840884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="506" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582684840884" />
+    <state width="1358" height="476" key="GridCell.Tab.0.left/0.23.1920.994/-1920.23.1920.1057@0.23.1920.994" timestamp="1582665271097" />
+    <state width="1877" height="506" key="GridCell.Tab.0.right" timestamp="1582684840884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="506" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582684840884" />
+    <state width="1358" height="476" key="GridCell.Tab.0.right/0.23.1920.994/-1920.23.1920.1057@0.23.1920.994" timestamp="1582665271103" />
+    <state width="1877" height="506" key="GridCell.Tab.1.bottom" timestamp="1582684840884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="506" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582684840884" />
+    <state width="1358" height="476" key="GridCell.Tab.1.bottom/0.23.1920.994/-1920.23.1920.1057@0.23.1920.994" timestamp="1582665270715" />
+    <state width="1877" height="506" key="GridCell.Tab.1.center" timestamp="1582684840884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="506" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582684840884" />
+    <state width="1358" height="476" key="GridCell.Tab.1.center/0.23.1920.994/-1920.23.1920.1057@0.23.1920.994" timestamp="1582665270714" />
+    <state width="1877" height="506" key="GridCell.Tab.1.left" timestamp="1582684840884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="506" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582684840884" />
+    <state width="1358" height="476" key="GridCell.Tab.1.left/0.23.1920.994/-1920.23.1920.1057@0.23.1920.994" timestamp="1582665270713" />
+    <state width="1877" height="506" key="GridCell.Tab.1.right" timestamp="1582684840884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="506" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582684840884" />
+    <state width="1358" height="476" key="GridCell.Tab.1.right/0.23.1920.994/-1920.23.1920.1057@0.23.1920.994" timestamp="1582665270715" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1582671413249">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582671413249" />
+    <state x="589" y="223" key="NewModule_or_Project.wizard" timestamp="1582658186048">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state x="589" y="223" key="NewModule_or_Project.wizard/0.23.1920.993/-1920.23.1920.1057@0.23.1920.993" timestamp="1582652854972" />
+    <state x="589" y="223" key="NewModule_or_Project.wizard/0.23.1920.994/-1920.23.1920.1057@0.23.1920.994" timestamp="1582658186048" />
+    <state x="616" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1582652816234">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state x="616" y="354" key="com.intellij.ide.util.TipDialog/0.23.1920.993/-1920.23.1920.1057@0.23.1920.993" timestamp="1582652816234" />
+    <state x="548" y="116" width="824" height="807" key="find.popup" timestamp="1582653092915">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state x="548" y="116" width="824" height="807" key="find.popup/0.23.1920.993/-1920.23.1920.1057@0.23.1920.993" timestamp="1582653092915" />
+    <state x="342" y="222" key="new project wizard" timestamp="1582671500534">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="222" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1582671500534" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/health/patience/PatientRepository.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
